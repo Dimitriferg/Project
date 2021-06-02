@@ -1,0 +1,67 @@
+p {
+  color: rgb(22, 202, 193);
+  font-family: "permanent marker";
+  font-size: 20pt;
+  align-items: center;
+  display: block;
+  width: 300pt;
+  margin-left: 350pt;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: darkred;
+
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 50pt;
+
+  margin-top: -5pt;
+  padding: -5pt;
+}
+
+nav {
+  color: oldlace;
+  font-size: 10pt;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-end;
+}
+
+h2 {
+  color: rgb(22, 202, 193);
+  font-size: 35pt;
+  font-family: "permanent marker";
+  align-items: center;
+  display: block;
+  width: 300pt;
+  margin-left: 350pt;
+}
+
+h3 {
+  color: rgb(22, 202, 193);
+  font-size: 35pt;
+  font-family: "permanent marker";
+  align-items: center;
+  display: block;
+  width: 300pt;
+  margin-left: 350pt;
+}
+
+h4 {
+  color: rgb(22, 202, 193);
+  font-size: 35pt;
+  font-family: "permanent marker";
+  align-items: center;
+  display: block;
+  width: 300pt;
+  margin-left: 350pt;
+}
+
+ul {
+  color: rgb(22, 202, 193);
+  font-family: "permanent marker";
+  font-size: 20pt;
+}
